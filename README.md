@@ -1,7 +1,52 @@
 
+---
 
 ````markdown
 ## 🛒 E-commerce Website
+### 📸 Project Screenshots
+
+<p align="center">
+  <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20223710.png" width="600" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20223735.png" width="600" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20232912.png" width="600" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20232921.png" width="600" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20232935.png" width="600" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20232943.png" width="600" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20232953.png" width="600" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20233059.png" width="600" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20233046.png" width="600" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20233004.png" width="600" />
+</p>
+```
+
+---
 
 A fully functional **E-commerce Website** built to provide a seamless online shopping experience. This platform supports user browsing, product management, order processing, payment integration, and administrative control, making it suitable for small to mid-scale businesses or as a personal portfolio project.
 
@@ -37,59 +82,13 @@ A fully functional **E-commerce Website** built to provide a seamless online sho
   * Responsive UI with clean layout
   * Interactive product cards and modals
   * Carousel for promotions / featured items
-```
+
 ---
 
 ### 📁 View Demo & Screenshots
 
 * 📦 Download Demo Screenshots (RAR File):  
   [Click here to download 📂](https://github.com/Din-Rasin/Ecommerce-website/blob/99d2cd82c81ac6659a9cd92a5f251a8972391fd7/View%20Picture%20Demo%20ecommerce%20website_final.rar)
-### 📸 Project Screenshots
-
-
-
-<p align="center">
-  <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20232912.png" width="600" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20232921.png" width="600" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20232935.png" width="600" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20232943.png" width="600" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20232953.png" width="600" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20233059.png" width="600" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20233046.png" width="600" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20233004.png" width="600" />
-</p><p align="center">
-  <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20223710.png" width="600" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20223735.png" width="600" />
-</p>
-
-
----
-
-
 
 ---
 
@@ -170,4 +169,9 @@ This project is under the **MIT License**. Feel free to use and modify.
 * 📧 Email: [denrasin2917@gmial.com](mailto:denrasin2917@gmial.com)
 
 ---
+
+
+
+✅ Just paste this into your `README.md` file on GitHub. Let me know if you'd like:
+
 
