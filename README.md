@@ -37,7 +37,7 @@ A fully functional **E-commerce Website** built to provide a seamless online sho
   * Responsive UI with clean layout
   * Interactive product cards and modals
   * Carousel for promotions / featured items
-
+```
 ---
 
 ### 📁 View Demo & Screenshots
@@ -85,7 +85,7 @@ A fully functional **E-commerce Website** built to provide a seamless online sho
 <p align="center">
   <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20223735.png" width="600" />
 </p>
-```
+
 
 ---
 
