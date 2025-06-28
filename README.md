@@ -129,7 +129,8 @@ A fully functional **E-commerce Website** built to provide a seamless online sho
 </p>
 
 ---
-
+🔐 Authentication Pages
+<p align="center"> <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20223710.png" width="600" /> </p> <p align="center"> <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20223735.png" width="600" /> </p>
 ### 🤝 Contributing
 
 1. Fork the repository
