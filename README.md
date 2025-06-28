@@ -1,5 +1,48 @@
-Sure! Below is the **final, fully organized version of your `README.md`**, with **all sections professionally arranged**, and **each screenshot placed under meaningful section headers** (like Homepage, Product Page, Cart, Admin Panel, etc.):
 
+
+### 🎥 Demo & Screenshots
+
+* 📦 [Click here to download Demo Screenshots (.rar)](https://github.com/Din-Rasin/Ecommerce-website/blob/99d2cd82c81ac6659a9cd92a5f251a8972391fd7/View%20Picture%20Demo%20ecommerce%20website_final.rar)
+
+---
+
+#### 🏠 Homepage
+
+<p align="center">
+  <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20232912.png" width="600" />
+</p>
+
+---
+
+#### 📦 Product Listings & Details
+
+<p align="center">
+  <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20232921.png" width="600" />
+  <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20232935.png" width="600" />
+</p>
+
+---
+
+#### 🛒 Shopping Cart & Checkout
+
+<p align="center">
+  <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20232943.png" width="600" />
+  <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20232953.png" width="600" />
+</p>
+
+---
+
+#### 🧑‍💼 Admin Dashboard & Management
+
+<p align="center">
+  <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20233059.png" width="600" />
+  <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20233046.png" width="600" />
+  <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20233004.png" width="600" />
+</p>
+
+---
+🔐 Authentication Pages
+<p align="center"> <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20223710.png" width="600" /> </p> <p align="center"> <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20223735.png" width="600" /> </p>
 ---
 
 ````markdown
@@ -88,49 +131,7 @@ A fully functional **E-commerce Website** built to provide a seamless online sho
 
 ---
 
-### 🎥 Demo & Screenshots
 
-* 📦 [Click here to download Demo Screenshots (.rar)](https://github.com/Din-Rasin/Ecommerce-website/blob/99d2cd82c81ac6659a9cd92a5f251a8972391fd7/View%20Picture%20Demo%20ecommerce%20website_final.rar)
-
----
-
-#### 🏠 Homepage
-
-<p align="center">
-  <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20232912.png" width="600" />
-</p>
-
----
-
-#### 📦 Product Listings & Details
-
-<p align="center">
-  <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20232921.png" width="600" />
-  <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20232935.png" width="600" />
-</p>
-
----
-
-#### 🛒 Shopping Cart & Checkout
-
-<p align="center">
-  <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20232943.png" width="600" />
-  <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20232953.png" width="600" />
-</p>
-
----
-
-#### 🧑‍💼 Admin Dashboard & Management
-
-<p align="center">
-  <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20233059.png" width="600" />
-  <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20233046.png" width="600" />
-  <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20233004.png" width="600" />
-</p>
-
----
-🔐 Authentication Pages
-<p align="center"> <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20223710.png" width="600" /> </p> <p align="center"> <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20223735.png" width="600" /> </p>
 ### 🤝 Contributing
 
 1. Fork the repository
