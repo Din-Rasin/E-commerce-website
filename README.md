@@ -3,6 +3,10 @@
 
 ````markdown
 ## 🛒 E-commerce Website
+
+A fully functional **E-commerce Website** built to provide a seamless online shopping experience. This platform supports user browsing, product management, order processing, payment integration, and administrative control, making it suitable for small to mid-scale businesses or as a personal portfolio project.
+
+---
 ### 📸 Project Screenshots
 
 <p align="center">
@@ -44,14 +48,6 @@
 <p align="center">
   <img src="https://github.com/Din-Rasin/E-commerce-website/raw/main/View%20Picture%20Demo%20ecommerce%20website_final/Screenshot%202025-05-19%20233004.png" width="600" />
 </p>
-```
-
----
-
-A fully functional **E-commerce Website** built to provide a seamless online shopping experience. This platform supports user browsing, product management, order processing, payment integration, and administrative control, making it suitable for small to mid-scale businesses or as a personal portfolio project.
-
----
-
 ### 🌟 Key Features
 
 * 🧑‍💻 **User Features**
@@ -171,6 +167,9 @@ This project is under the **MIT License**. Feel free to use and modify.
 ---
 
 
+```
+
+---
 
 ✅ Just paste this into your `README.md` file on GitHub. Let me know if you'd like:
 
